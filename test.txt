@@ -1,1 +1,2 @@
 master
+new_master
